@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TapFigther</string>
+    <string name="tapMe">Tap Me!</string>
+    <string name="score">Your Score: %1$d</string>
+    <string name="timeLeft">Time Left: %1$d</string>
+    <string name="gameOverMessage">Times up! Your score was: %1$d</string>
+    <string name="aboutMenu">About</string>
+    <string name="aboutTitle">Tap Fighter!</string>
+    <string name="aboutMessage">Created by Roberto Mafra Kotlin Developer</string>
+</resources>
